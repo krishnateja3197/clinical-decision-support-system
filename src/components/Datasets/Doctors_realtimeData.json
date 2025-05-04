@@ -1,0 +1,504 @@
+[
+        {
+          "id": 1,
+          "name": "Dr. Tripti Sharma",
+          "speciality": "Endocrinologist (Adult & Paediatric), Physician & Diabetologist",
+          "hospital_name": "PACE Hospitals",
+          "location": "Hitech City, Hyderabad",
+          "phone_number": "040 4848 6868",
+          "disease_name": "Diabetes",
+          "img": "https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dr.+Tripti+Sharma+-+General+physician+near+me-+best+endocrinologist+in+Hyderabad-+India-1920w.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dr. Sridevi Paladugu",
+          "speciality": "Diabetology",
+          "hospital_name": "Apollo Hospitals",
+          "location": "Jubilee Hills, Hyderabad.",
+          "phone_number": "040 6907 1200",
+          "disease_name": "Diabetes ",
+          "img": "https://images.apollo247.in/doctors/12e946e9-86c2-42b0-885b-dc14800032ac-1704301120801.png?tr=w-74,c-at_max,f-auto,q=80,dpr-2"
+        },
+        {
+          "id": 3,
+          "name": "Dr. S.Nishanth",
+          "speciality": "ENT/ Otorhinolaryngologist",
+          "hospital_name": "Prasad Hospital",
+          "location": "Pragathi Nagar, Hyderabad",
+          "phone_number": "1800 412 3029",
+          "disease_name": "(vertigo) Paroymsal  Positional Vertigo",
+          "img": "https://imagesx.practo.com/providers/dr-s-nishanth-ent-otorhinolaryngologist-hyderabad-7a06dcda-e2cc-44d9-b3b1-3977f50406c4.jpg?i_type=t_70x70-2x-webp"
+        },
+        {
+          "id": 4,
+          "name": "Dr.Ch. Srujith",
+          "speciality": "General Physcian & Diabetologist",
+          "hospital_name": "My Health Hospital",
+          "location": "Kukatpally,Hyderabad",
+          "phone_number": "9111674111",
+          "disease_name": "Dengue",
+          "img": "https://www.myhealthhospitals.com/images/doctors/dr-srujith.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Dr Ganshyam M Jagathkar",
+          "speciality": "Critical Care",
+          "hospital_name": "MediCover Hospitals",
+          "location": " HITEC City, Hyderabad",
+          "phone_number": "040-68334455",
+          "disease_name": "Dengue",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-ganshyam-m-jagathkar.webp"
+        },
+        {
+          "id": 6,
+          "name": "Dr. Deepthi Kondagari",
+          "speciality": "Endocrinologist",
+          "hospital_name": "Endo Rheuma Care",
+          "location": "ECIL ,Hyderabad, Telangana",
+          "phone_number": "9381532660",
+          "disease_name": "Arthritis",
+          "img": "https://imagesx.practo.com/providers/dr-deepthi-kondagari-endocrinologist-hyderabad-7df62ae2-72d9-4bdf-965d-bd092726ff79.jpg?i_type=t_70x70-2x-webp"
+        },
+        {
+          "id": 7,
+          "name": "Dr B Vijaya Sree",
+          "speciality": "Dermatologists",
+          "hospital_name": "Medicover Hospitals ",
+          "location": "HITEC City, Hyderabad, Telangana",
+          "phone_number": "040-68334455",
+          "disease_name": "Fungal infection",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-vijaya-sree.webp"
+        },
+        {
+          "id": 8,
+          "name": "Dr. Ram Kumar",
+          "speciality": "Fungal infections ",
+          "hospital_name": "Suguna Clinic",
+          "location": "Bandlaguda,Hyderabad",
+          "phone_number": "09618994555",
+          "disease_name": "Fungal infection",
+          "img": "https://sugunaclinic.com/wp-content/uploads/2024/08/Fungal-infections-Treatment-in-suncity-Bandlaguda-hyderabad-1080x628.png"
+        },
+        {
+          "id": 9,
+          "name": "Dr. Meka Satyanarayana",
+          "speciality": "Internal Medicine Specialist",
+          "hospital_name": "Aswini Diabetic, Cardiac, Family & HIV Clinics",
+          "location": "Kukatpally, Hyderabad",
+          "phone_number": "7075762779",
+          "disease_name": "Jaundice",
+          "img": "https://assets.lybrate.com/f_auto,c_limit,w_1080,q_auto/img/documents/doctor/dp/387079ceb04a3fd3eb8e5302323aa1d4/Internal-Medicine-MekaSatyanarayana-Hyderabad-c79f17"
+        },
+        {
+          "id": 10,
+          "name": "Dr. Viswanath Reddy D",
+          "speciality": "Internal Medicine Specialist",
+          "hospital_name": "Yashoda Hospitals",
+          "location": "Secunderabad City, Secunderabad",
+          "phone_number": "08197531237",
+          "disease_name": "Jaundice",
+          "img": "https://content.jdmagicbox.com/v2/comp/secunderabad/r9/040pxx40.xx40.140621133259.u3r9/catalogue/dr-viswanath-reddy-d-secunderabad-city-secunderabad-gastroenterologists-lDKLFEhXFn.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Dr. Tudi Pavan Reddy",
+          "speciality": "Neurologist",
+          "hospital_name": "Kims-Sunshine Hospitals",
+          "location": "Begumpet, Hyderabad",
+          "phone_number": "08867845577",
+          "disease_name": "Paralysis (brain hemorrhage)",
+          "img": "https://content.jdmagicbox.com/v2/comp/hyderabad/e1/040pxx40.xx40.140318142647.y5e1/catalogue/dr-tudi-pavan-penderghast-road-hyderabad-general-physician-doctors-1brzyhh-250.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Dr. Padma Priya",
+          "speciality": "Consultant Gastroenterologist , Hepatologist",
+          "hospital_name": "PACE Hospitals",
+          "location": "Hyderabad, Telangana",
+          "phone_number": "040 4848 6868",
+          "disease_name": "Chronic cholestasis",
+          "img": "https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dr.+Padma+Reddy+-+Best+Female+Gastroenterologist+in+Hyderabad+India+-+Hepatologist-+EUS+Specialist+in+Hitech+City-+Madhapur-+Telangana-640w.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Dr. Srinivasa Reddy G",
+          "speciality": "Consultant, Clinical & Transplant Hepatology",
+          "hospital_name": "STAR Hospitals",
+          "location": "Banjara Hills, Hyderabad",
+          "phone_number": "9071104108",
+          "disease_name": "Alcoholic hepatitis",
+          "img": "https://starhospitalsproduction.s3.amazonaws.com/bKeMHZOiodPiKHUP1YhqEUB3P4v5S6e9Khco5zfa.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Dr. Govind Verma",
+          "speciality": "Interventional Gastroenterologist, Transplant Hepatologist, Pancreatologist and Endosonologist",
+          "hospital_name": "PACE Hospitals",
+          "location": "Hitech City,Hyderabad",
+          "phone_number": "040 4848 6868",
+          "disease_name": "Dimorphic hemmorhoids(piles)",
+          "img": "https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dr+Govind+Verma+-+Best+Gastroenterologist-+Hepatologist+%28Liver+Specialist%29-+Pancreatologist+-+Endosonologist+in+Hyderabad-+India-1920w.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Dr.Krishna Subramanyam Pannala",
+          "speciality": "Orthopedist",
+          "hospital_name": "Yashoda Hospitals",
+          "location": " Malakpet, Hyderabad ",
+          "phone_number": "08197310466",
+          "disease_name": "Osteoarthristis",
+          "img": "https://content.jdmagicbox.com/v2/comp/hyderabad/c7/040pxx40.xx40.091113141433.e8c7/catalogue/dr-krishna-subramanyam-pannala-malakpet-hyderabad-knee-replacement-surgeon-doctors-AfbiMMtAKa.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Dr Surendra Prasad G",
+          "speciality": "Endocrinologists",
+          "hospital_name": "Medicover Hospitals",
+          "location": "HITEC City, Hyderabad",
+          "phone_number": "917075493806",
+          "disease_name": "Hyperthyroidism",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-surendra-prasad-g.webp"
+        },
+        {
+          "id": 17,
+          "name": "Dr P Naveen Kumar",
+          "speciality": "General Medicine",
+          "hospital_name": " Medicover Hospitals",
+          "location": "HITEC City, Hyderabad",
+          "phone_number": "917075493806",
+          "disease_name": "Common Cold",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-p-naveen-kumar.webp"
+        },
+        {
+          "id": 18,
+          "name": "Dr. G Parthasarathy",
+          "speciality": "Gastroenterologists",
+          "hospital_name": "KIMS Hospitals",
+          "location": "Begumpet, Hyderabad",
+          "phone_number": "73309 90044",
+          "disease_name": "GERD",
+          "img": "https://www.gastrosurgeonindia.com/wp-content/uploads/2021/04/acid-reflux-treatment-in-Hyderabad.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Dr. G. Rangaswamy",
+          "speciality": " Anesthesian",
+          "hospital_name": "Health Clinic",
+          "location": "Secretariat Colony, Manikonda",
+          "phone_number": "7288800111",
+          "disease_name": "Drug Reaction",
+          "img": "https://assets.lybrate.com/f_auto,c_limit,w_384,q_auto/img/documents/doctor/dp/2b70e763d60abb3b2418752b659840c7/General-Physician-GRangaswamy-hyderabad-432f33.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Dr. G Parthasarathy",
+          "speciality": "Gastroenterologists",
+          "hospital_name": "KIMS Hospitals",
+          "location": "Begumpet, Hyderabad",
+          "phone_number": "73309 90044",
+          "disease_name": "Peptic ulcer diseae",
+          "img": "https://www.gastrosurgeonindia.com/wp-content/uploads/2021/04/stomach-ulcer-treatment.jpg"
+        },
+        {
+          "id": 21,
+          "name": "Dr. Rikin Hasnani ",
+          "speciality": "Pulmonologist",
+          "hospital_name": "Udai Omni Hospitals ",
+          "location": "Abids, Hyderabad",
+          "phone_number": "7947118799",
+          "disease_name": "Bronchial Asthma",
+          "img": "https://content.jdmagicbox.com/v2/comp/hyderabad/x8/040pxx40.xx40.191024133526.a3x8/catalogue/dr-rikin-hasnani-udai-omni-hospital--abids-hyderabad-pulmonologists-doctors-dqzpguedlo.jpg"
+        },
+        {
+          "id": 22,
+          "name": "Dr. Abhik Debnath",
+          "speciality": "Consultant Laparoscopic Urologist, Endourologist, Andrologist & Kidney Transplant Surgeon",
+          "hospital_name": "PACE Hospitals",
+          "location": "Hitech City , Hyderabad",
+          "phone_number": "04048486868",
+          "disease_name": "Urinary tract infection",
+          "img": "https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dr.+Abhik+Debnath+-+Best+Urologist+in+Hyderabad-+Top+Kidney+Specialist+Doctor+in+Telangana-+India-640w.jpg"
+        },
+        {
+          "id": 23,
+          "name": "Dr.Keerthana Kalva",
+          "speciality": "Dermatology",
+          "hospital_name": "Cosmetic Surgery and Medical Aesthetics",
+          "location": "Jubilee Hills, Hyderabad",
+          "phone_number": "+91-7272872721",
+          "disease_name": "Acne",
+          "img": "https://www.drkeerthanakalva.com/assets/website/images/about-doctorimage.png"
+        },
+        {
+          "id": 24,
+          "name": "Dr. Ashwini Ramachandran",
+          "speciality": "Advanced Treatments",
+          "hospital_name": "Apollo Hospital",
+          "location": "Financial District, Hyderabad",
+          "phone_number": "07947126406",
+          "disease_name": "Allergy",
+          "img": "https://content.jdmagicbox.com/v2/comp/hyderabad/z9/040pxx40.xx40.241011210750.c2z9/catalogue/dr-ashwini-ramachandran-financial-district-hyderabad-doctors-for-allergy-exwbehdhmu.jpg"
+        },
+        {
+          "id": 25,
+          "name": "Dr. Tripti Sharma",
+          "speciality": "Endocrinologist (Adult & Paediatric), Physician & Diabetologist",
+          "hospital_name": "PACE Hospitals",
+          "location": "Hitech City",
+          "phone_number": "040 4848 6868",
+          "disease_name": "Hypothyroidism",
+          "img": "https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dr.+Tripti+Sharma+-+General+physician+near+me-+best+endocrinologist+in+Hyderabad-+India-1920w.jpg"
+        },
+        {
+          "id": 26,
+          "name": "DR P. AJAY KUMAR MD",
+          "speciality": "HIV and Chest Specialist",
+          "hospital_name": "sai srinivasa hospital ",
+          "location": "Narayanguda,Telangana",
+          "phone_number": "9246048734",
+          "disease_name": "AIDS",
+          "img": "https://fpimages.withfloats.com/actual/55c058d34ec0a40428a855ff.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Dr. Tudi Pavan Reddy",
+          "speciality": "Hepatologist",
+          "hospital_name": "Kims-Sunshine Hospitals",
+          "location": "Begumpet, Hyderabad",
+          "phone_number": "07942699282",
+          "disease_name": "Hepatitis B",
+          "img": "https://content3.jdmagicbox.com/v2/comp/hyderabad/e1/040pxx40.xx40.140318142647.y5e1/catalogue/dr-tudi-pavan-sunshine-hospital-penderghast-road-secunderabad-general-physician-doctors-21mjk6abcp.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Dr. A Jayachandra",
+          "speciality": "Pulmonology",
+          "hospital_name": "CARE Hospitals",
+          "location": "Banjara Hills, Hyderabad",
+          "phone_number": "+91-40-68106529",
+          "disease_name": "Pneumonia",
+          "img": "https://www.carehospitals.com/assets/images/main/best-pulmonologist-a-jayachandra.webp"
+        },
+        {
+          "id": 29,
+          "name": "Dr P Naveen Kumar",
+          "speciality": "General Medicine",
+          "hospital_name": " Medicover Hospitals",
+          "location": " HITEC City, Hyderabad",
+          "phone_number": "917075493806",
+          "disease_name": "Malaria",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-p-naveen-kumar.webp"
+        },
+        {
+          "id": 30,
+          "name": "Dr. Suraj Uppalapati  ",
+          "speciality": "Gastroenterology",
+          "hospital_name": "Gastro 360 clinics",
+          "location": "Kondapur and Madinaguda",
+          "phone_number": "959005673",
+          "disease_name": "Hepatitis D ",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uD3H1aV8EgVAj5W-EIUNm6gSN64AjgopXuMH4QUf88W0w04NZxgMzRa4hXkAgssmopk&usqp=CAU"
+        },
+        {
+          "id": 31,
+          "name": "Dr.Shiva Shankar",
+          "speciality": "Dermatologist",
+          "hospital_name": "Healix Hospitals",
+          "location": "Madina Guda, Hyderabad",
+          "phone_number": "04061626364",
+          "disease_name": "Impetigo",
+          "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSExIVFhUXFhUWFxUVFhUVFxcVFhUXFhUXFRUYHSggGBolHRYWITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQFy0fHiUuLS0tLSsyKy0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0rLf/AABEIAT4AnwMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAgMEBQEGBwj/xABFEAABAwIDAwgIAwUGBwEAAAABAAIRAyEEEjEFQVEGE2FxgZGh0QcUIjJTkrHBctLwI0KCouEWJDNSYvEVF0RUY3PCNP/EABkBAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EACYRAQEAAgEFAAEEAwEAAAAAAAABAhEDEhMhMWFBBCIjUTKB8RT/2gAMAwEAAhEDEQA/AOGoQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhBI9Rq/Df8AK7yR6jV+E/5HeS9Ngpyelb9n6y7nx5g9Rq/Cf8jvJHqNX4T/AJHeS9QNd0oeTGqdn6nuPL/qNX4T/ld5I9Rq/Cf8jvJenaB1Tkp2fp3Pjy96jV+E/wCR3kj1Gr8J/wAjvJeonFIpkzqnZ+nX8eYPUavwn/I7yWfUKvwn/I7yXqAuS8ydn6dz48t+o1fhP+R3kj1Gr8N/yu8l6gquTYcnZ+nW8xepVfhv+V3ks+pVfhv+V3kvSDpzJ10peH6TN5p9Sq/Df8rvJHqdT4b/AJXeS9JuUN5unZ+rdTzx6lV+G/5XeSz6lV+G/wCV3kvRrzZO0TZT2PqOt5t9Sq/Df8rvJY9Sq/Df8rvJelXSm7p2PqO58SglptqcWzMNKy4rDQsP0QZoHVLJTdBOKKMuSKZS3LSPSBylOHb6vTMVKjZc4GMjCYt/qN+oT0KLdRMm6l8p+WbMO7m6QFSoPek+yzoMau6Ny1yr6QcTYZabeJDSe+XWWlseNfr9elZYbyezj1rG51rMI6Hh/SC6AKlAE7yxxb/KQb9q2jY23KOJaebPtAXY6zh5jpC4uMQ8XLDHGLd6co7Qq03CpSLmubcEeII3g7wk5S8btke0n3BVWxdqMxDA9pvAzDQtdFwQrchdFZQw9Qy26nuCiht1EXZqBOUdEVGpdIWUqUOSWhKchilBxqdTYTiiojLQsPFllqy5QkigEtYooLkC3LiXpAeTtCsP/WB0xTb95XanvXLuU+zg7akkewWNquO72W5dektAWfL4xacU3lonkxyPD2Zq0ydB0LaaHITD2kEhVX9rDRsKTbRq+8dlgrnZ3K3nYBpuaeNntBG6RvsvPy6vdenj0eouX7EoinzYptyjdC0TlfsdlGm57ALbgthxXLmnTBBpvdePdy/VQam3qOKbkNNzc1riQZ6RoqyWfuibZf21qno7xz/XWtmz2PaR+EFzZ6oPeuuwuScgMAW7RcCJ5oVb9IOQeBXXAvT4/wDF5WfjI24KO0XUtwUdrbrSK7FRKp6LFUJTBZEByKaQ4pVMoFhLlMhyXKIONKy4ptpQ5EssckOfdYZomiUDrnWWr1dmmriHveZEQ0dTtDxFgb8StieVR42oWVAQd33JXN+q30zTq/Sa6rEg8lqZBJAEkE6ajfdS9j7FptqBwFvaMmDmOk9WvXKgYnbRAa02adT0cFVPwkuc+lWc1x3GoIjqNlwzdej4i4xfJlj3mdTngxYgk264MdijHko2nccIsSOqeKbwLBSeXc89xMavzNzDfG7qCt3bVD2AqLbPGzUvlT8ncGadetLR+6M8XMNYb8bl19TC2trlU7PcTJO8mPp9QrRq9Lh30Tby+fXXdHJSGC6JWaa1YMVQlNFliqsg2Uhp4WWNWSUpqBoJwJoFLBUqnGJTgkMKXKhJDW2TLgpA0TDkSQ4Kn26whgeBOU36jr9lclHqBqMfb2Qx8nd7psOlVz1cbKtx2zOWNN9YY4APaHNnfdZLKrP8LCUqjd3st+4sq3GMdTMdxie9Mnb1RthPYR915sn9PV6rKuBh8162HFL8JLer3Y8VIbiRAgdQ4lUH/HKj7HvPjYaq52EG8419QwwGxMamwN+mOlNS3yXO3emyYOllaBvi/XqfFWLBZMVsO6m7K4Rw4EcQd4UhhsvT/Hh5N9+QQs0wiUumoDVXVKGiKgulhtlOwwUoFDggCylCPKWE1KW0qUHGlLzJkFKaCbASToAoCs9kyCSYFzwGvcrzBbAc69Q5RwF3eQ8VMxgp4Zh5poDzYHVxJ6T1+IWeXJJ6aY4WqLA4bNXbScN8uE6AAmDGnDtW2PwwLCwAAQQALKjGCbhalKpYl0iq7eXEa9Q+jQr3C1y42b7EH25FyDEAcNbrC5W+2sxk9OVbWwMOdTeIc0wRwPR0b1rWM2TfdHaF1Pl5syebxDLGRTf0z7hPbI/iC1apgHHULgzlwunp8eWOeO61rCbLY25j9dKm4fDnFYqjhGQGzmqTwAMCN+89gUzaeWhSNR1g3o1O4BS/QtQ56piMWRMHmmuI1c4B78vAAZB/EVrw49V6r+Gf6jOY49M/LpWJ2cx7A0iwAAO8QIkFa7SwVQtzNGYAkHLcgixBGq2wV25ssweBtPSJ17FXU281iSP3aon+Mb+37rrmdxcFxla461inaRW3YjBsqWe0Hp39h1Wv7T2bzRzNksPgeBWszl8MrjYgvKUDZMOddOg2V0ElJOiw5ywTZShFSwkJQVlWSVs2wtn5G8473iLDgD9yqTZeG5yo0HQe0eobu0wO1bbSMg/r9b1jyZfhrhj+T7XrW6tF2KqEZi1jdSNdYgcCYN+EK9zn2huhQdgUyGuLmkS4CDwgGe8rBqj43k9RpsL6eYFozXe5wMXMhxKm7PrOZSYYzNgg8QA4gR2KXtJpNJwbEkb9I3+CTgKBbSYx2oY0O/FHteMqBjG4aniqNSk67KjXMdxEjwI17FweliNrYeq/DZqbjSe5kPGaYNnCXTlcIIvvC7uaGU5m2n9XXOPSrshxqU8U0BuYClVPBwk03g9Ilpn/ACtUZTw14tdWt6abt9+IxrqTSGNZlDi1ri5uYiCZi8kGOiF2jkbsQYLCUsONWtl541HnM89UmB0ALmnI7YWbaVNmYOZTZzrjrOU+yPmLewFdko3JPd1K0mppnlerK5MvphwhwBHA3VZtmgGMY9s/s3g6k9EX6YVsqvlJim08O5zgTJaAGjMSZB06gT2KKiLNjk09ocIIkGZUPYW0WV6LXMm3sODhBD22cDxvvFlLJ+6kajtLCmk8t3G7TxCZBstj5RU81Enewg95g+BWsZrLpwu4wymqySsOckErFRyuqwiUmUqnTLiGjUkAdqDYuTtCGZjq+Y/CP6z4KxpVYJ6j4fopNNgYGAaCG/ZN1zDp4Lmt3duiTUS8M4HNwn7Jyi63f9VVGSDG42P0UvD1IgHf4CJVUpVQz2n/AH8JTwKj5rxw+p/RTzSoCniypeU+FFXCVg5uYBheAeLPbEdrVdph9PMHNOhBHYbFQnG6u2p8iMJTHPV6bYzllLjZgLiR8/gtypCAtf5G4bJhKIiCWl5HS8l30hbAkmpoyu6yVW7eI5tpNoq0uH7zwzf+JWRUHaeDbXbzTxLTDnCSPdIcNL6gdyIjX+QDoZiWn93Ev/mYx33Wy5tSoOB2ZRpNcaLGsGY5g1oaC5tiTGpUnPuVg5UphzHNOhBB7VpNVhYS06tJHct2abLXOU2Fhzag/esesaeH0WnHfOlM542psyTVcsJFZbsS230urfk/h5eXH90W6z/SVTAlbdsnCc0wA6m56407FnnfC+E8pVVJrmQClPUc1ALHQ7+BWLYzQrjPlO8T3WP271IpVPbzbg0nukfYKj23sx9TKWVnUiwkggZgZiJEjeOPFSsIx5uXzfTLYnibzNhvHbZErui/eePin21LrVNrbF597XOr1gBHsNLA2QSf8s3mNdyv8O42KhCzYUl2qTSel1QoCKTALC24DoS3FATdQoFh0qDj8S6k5rmiQZDh0aiE810FZrtzKQyzHmoPdyjfeSehIdUlyW9gYJVeatz3fcpIlaMcou26Gei6NR7Q7P6SlUTCkA2Uy6qLGgZk1XqKftLC83Vc3dMjqNx5dirq4XVK5rKea5bpgdoMqt9k33tOo7PutIlYDyDIMEaEW8VnljtfG6b85Q651HcucbA5aY1jhTqmliGTEk5Kg/iAg9o7VsdXlZhnSC8MLbEPBEfxiW+KwmU3rbo6bqWxatJgg8e9T8LTgD9aqj2NjadfNzVRrwHCSxwcLjiNFsBMealFKLLp4BJ3pe5QgsJ1pMIpN4p0FKEykvSnptxUBsp1uqb5yJmO9RKeLAdJJAPEfdSk/tF0NngqOnVkqy2lVDqbr7ptewufoqmg0SCLgwQRoRuUxMW2GcSpzFS4jatGiJq1adOB+84Ax+GZVVhPSBhKlXmqHOVDlLs5aabLECAXe0df8sW1TW1bZPa15UYYZW1BqDlPSDp4/VanWKtNobUqVveMN1DRYf1VPWK3wmoxy8llybqPsU296ZrVIaTwBPgraVaNsgTVgvbqdR0HiomKZDqxzD3nbxxKs9j1aJqf4Y1d+9bThBUPFV6cVSKbPfManeuTHKdd8Ovkxz6Mf3N39DftCuCT7JY6d3tNIA/lJXTqLZ0dYa2ELn3ojI9WqugAGtFhE5WM8/qugnTLx1Uz0jP2kx9PBDJ6llosEpqKpFOwWA5YprDkDhKaqlKASHtQIrC0x/v0KtYCLWPQVZsEb7bx+tFAxYIMhEwgP3FoB3E6d64bywp1aWKxdKk9/N863K01HAND2Co4NbNhL/BdzFSRouFcvXudtHEtt/iUrHhzFPyS7/B415Gw8DUyOaCwDIdeszu6U/ybpCnXouNSSc7YGlwQFXbBzSfaF2n6hL2Rh3l1NzZdkdngQLNM2nXsUY3KW7q2eOF6dS3/AI6UXKFVfdPsqhzcw0IkKDVdddcctOvUHaGKaxhnfIHWRYKa9VO33EUSRBIcyx/EB90u9eETUvlrmyKZzlxpiBmPsvA+0lV9ZhyuOQXdaSDN1dbFxzpIFBvukbnTcKtqYx5pxzbfe6fOFyY3Pd8OjknFrGb/AKdQ9FrCMG2YvUqG3WB9lvDblaN6LMTmwxa6AW1XiALXY19vmW/NyzHUpnqLZe7o6zQLISmtgLCKnmaJmq+IG9ONdAlN0iS0E8EAx6UU25saLBegUUzUbITz7hM6IIDbFcX9IVKn/wARrF7gDFI6E25sC8HoK7Zi4BnjuXHPSjhv70KoAMta0noj2T3yFOtpt15k2qKrKTWsqUwcvuvinEnpLz+oT1DGmk8R7DTq4El5G8A7rcAo2yg6oDTc7KDwGhGhk6aeCVh8GD7LnS4OgEe1P2hZTo1cb5rXKcnVMpdRuOwnjmcg/ccWgmbj3mm/Q4dyKjrp7C0ObpwTJi56tFEcbrtw3ry5M5JdY3cTXFQ8fhxUY5h3jXgQZHiFJJTZVlGn4OnzL3NdmtIltxr/AEVe7Buye6/Wb2W0EDnnA8Z7wEvarIbAi5HjZebc7jncY9OceOWEys/DZvRhhubpvbNy/MfkY37LfKh0IWn+j0fs6n4/qG+S3Ok2dQuqzXhyb35S8yQx02SA4wAn2iAqgqPhKZoEw4SpDAoSbckFwTlRqbPBEFCAP90hxSnCBuSLIIWOZmXOeWjR6xlge4227efJdKrRK5fyufOLq9BaO5jVph7Vz9KnZ+GZcFokE3Inq8FOxVFoGgB6AouFEPPSAft9lIxjjC4OSa5NfXpcd3xb+LasbKtm6n13WVaDderHkrGEgpYSSVKNKPEj9s7s+iexwsOEg+KTXI54z0fRScQ2WfhuvLzv83+3q8c/h18bfyCpxQnjUce6B9lt1SpGi1TkMP2H8Tj4raGNBN12Ze3DPR3CyblP1DZJFQWAWKjlUONcNEsu9qEhogdylOAUCO5YhYLrpYugRWiLKM4Qna1tE24SpEfEFcp2+/Niax/8jx3GPsuqYkRbTrXJNoumtUPGo897ir4K5lYcjMJtYid02N+9SMYRlIF93s3N+rrCjM2c95zBwaI3iZ6vDuVfj6taiWlxJAc0yJcLHgdDv7FxcusuSu/i3jxthqPOW4IIsQ4RcWMcR0iygNN1a7Sqtf7TZiALggmN8G413qrZqvSxvh5tixBWFhAUitxY/a9gnvKtsJSkKrxg/ag9H3Kv8J7s9C8vnn8lepwX+OLXkscrnUhoBmA6CbraucgT3LR+TGLa7EtIOrHjrFj/APPitye+TC6eO24+XLzYzHI5SuZ/onye4JDBHclK7Iqo+VJqVCoNV0wOkKXmUBDkgE9iUUNHegRWJka2CZzEJ59SDG/imi66JRscbLkoZmfHF31K6ttF0ArldJ3tAjirTxKjW7I2ekwQBawVLteiOxSdl13Gs9rtA1hB4kl0/QJvbBBJAI0XnaeoViPdHUFXt1VjiTDY6FXMN160ePUf+02E+O3+byR/abCfHb/N5LkyFj3atp1GrykwmYHnWkXB97yU7A8s8KGlhqtG6Tm8lyBCxzkyu2+HNcZp1nklylwlKs11Su0DLUuc0SXCN3CVvVPl5swf9ZTPY/8AKvNiFbG9M0pnncruvTI9IOy5/wD2U+5/5Ur/AJgbL/72n3P/ACrzIhT1KPTH9vtl5gfXafc/8qkO9IOyj/1tPuqflXl9CdSdvTv/ADC2X/3tPuf+VYPpB2XuxtPuf+VeY0J1Iel38v8AZhJ/vtPuf+VJZy+2Zf8AvlPuf+VeakJ1J29E43l3s02GLYeJh9v5VoOF25hi4TXYOkyPsuaITqutEvmV1nBcosGH1HOxDLxHvbhut0lRavKDCm/Ptku/1WGg3dq5ghZ9Ebf+jLTq+J5TYQi1dv8AN5KGzlDhp/xm+PkuaIW3drn0EIQs0hCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIP/Z"
+        },
+        {
+          "id": 32,
+          "name": "Dr Hari Radhakrishna",
+          "speciality": "Neurologists",
+          "hospital_name": "Medicover Hospitals",
+          "location": "HITEC City, Hyderabad",
+          "phone_number": "040-68334455",
+          "disease_name": "Migraine",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-hari-radhakrishna.webp"
+        },
+       {
+          "id": 33,
+          "name": "Dr Ravinder Reddy Parige",
+          "speciality": "Pediatricians",
+          "hospital_name": " Medicover Hospitals",
+          "location": "HITEC City, Hyderabad",
+          "phone_number": "040-68334455",
+          "disease_name": "Chicken pox",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-ravinder-reddy-parige.webp"
+        },
+        {
+          "id": 34,
+          "name": "Dr. Kaku Madhurya",
+          "speciality": "Consultant General Physician and Diabetologist",
+          "hospital_name": "PACE Hospitals",
+          "location": "Hitech City",
+          "phone_number": "8977889778",
+          "disease_name": "Hypertension ",
+          "img": "https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dr.+Kaku+Madhurya+-+Best+general+physician+in+Hyderabad-+lady+general+physician+in+hitech+city-1920w.jpg"
+        },
+        {
+          "id": 35,
+          "name": "Dr. Manish C Varma",
+          "speciality": "Surgical Oncologist",
+          "hospital_name": "Apollo Hospitals",
+          "location": "Jubilee Hills, Hyderabad",
+          "phone_number": "07947103709",
+          "disease_name": "hepatitis A",
+          "img": "https://content.jdmagicbox.com/v2/comp/hyderabad/n9/040pxx40.xx40.160213163935.j6n9/catalogue/dr-manish-c-varma-apollo-hospital--jubilee-hills-hyderabad-hepatologist-doctors-upfr1.jpg"
+        },
+        {
+          "id": 36,
+          "name": "Dr P Naveen Kumar",
+          "speciality": "Consultant General Physician and Diabetologist",
+          "hospital_name": " Medicover Hospitals",
+          "location": "HITEC City, Hyderabad",
+          "phone_number": "04068334455",
+          "disease_name": "Typhoid",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-p-naveen-kumar.webp"
+        },
+        {
+          "id": 37,
+          "name": "Dr Rabinder Nath Mehrotra",
+          "speciality": "Endocrinologist",
+          "hospital_name": "Apollo Health City",
+          "location": "Jubilee Hills, Hyderabad",
+          "phone_number": "91 4043441066",
+          "disease_name": "Hypoglycemia",
+          "img": "https://www.apollohospitals.com/sites/default/files/2025-01/dr-rabinder-nath-mehrotra-endocrinology-in-hyderabad.png"
+        },
+        {
+          "id": 38,
+          "name": "Dr. Sindhura Mandava",
+          "speciality": "Dermatologist",
+          "hospital_name": "Yashoda Hospital",
+          "location": "Hitec City",
+          "phone_number": "04067232363",
+          "disease_name": "Psoriasis",
+          "img": "https://www.yashodahospitals.com/wp-content/uploads/2025/01/Dr.-Sindhura-Mandava-Web-profile-Photo.jpg"
+        },
+        {
+          "id": 39,
+          "name": "Dr. Seshi Vardhan Janjirala",
+          "speciality": "Consultant Interventional Cardiologist",
+          "hospital_name": "PACE Hospitals",
+          "location": "Hitech City, Hyderabad",
+          "phone_number": "04048486868",
+          "disease_name": "Heart attack",
+          "img": "https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dr.+Seshi+Vardhan+Janjirala+-+Best+Cardiologist+in+Hyderabad-+cardiologist+near+me-+Top+10+heart+specialist+doctor+in+Telangana-+India-1920w.jpg"
+        },
+        {
+          "id": 40,
+          "name": "Dr. B. Bhaskar Rao",
+          "speciality": "Cardiothoracic & Vascular Surgeon",
+          "hospital_name": "KIMS Hospitals",
+          "location": "Secunderabad,Hyderabad",
+          "phone_number": "040-44885000",
+          "disease_name": "Varicose veins",
+          "img": "https://assets.kimshospitals.com/images/doctors/dr-b-bhaskar-rao_1707288602.jpg"
+        },
+        {
+          "id": 41,
+          "name": "Dr. Bharani Immaneni",
+          "speciality": "Gastroenterology",
+          "hospital_name": "Apollo Hospitals",
+          "location": "Secunderabad,Hyderabad",
+          "phone_number": "+91 4043441066",
+          "disease_name": "Gastroenteritis",
+          "img": "https://images.apollo247.in/doctors/ab9cd2c0-0958-474d-845d-a80062b1ebd3-1737909945498.png?tr=w-150,c-at_max,f-auto,q=80,dpr-2"
+        },
+        {
+          "id": 42,
+          "name": "Dr. Padma Priya",
+          "speciality": "Consultant Gastroenterologist",
+          "hospital_name": "PACE Hospitals",
+          "location": "HITEC City",
+          "phone_number": "040 4848 6868",
+          "disease_name": "Gastroenteritis",
+          "img": "https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dr.+Padma+Reddy+-+Best+Female+Gastroenterologist-+Hepatologist-+EUS+Specialist+in+Hyderabad+India-1920w.jpg"
+        },
+        {
+          "id": 43,
+          "name": "Dr. J. Shravan Kumar",
+          "speciality": " Gastroenterology ",
+          "hospital_name": "Renova-Nigl Hospitals",
+          "location": " Banjara Hills-12.",
+          "phone_number": "8106884779",
+          "disease_name": "Gastroenteritis",
+          "img": "https://drshravangastro.com/wp-content/uploads/2024/09/PRV_7069--1022x1536.jpg"
+        },
+        {
+          "id": 44,
+          "name": "Dr. Dharmesh Kapoor",
+          "speciality": "Consultant Hepatologist",
+          "hospital_name": "Yashoda Hospitals",
+          "location": "Secunderabad",
+          "phone_number": "8929967127",
+          "disease_name": "Hepatitis E",
+          "img": "https://www.yashodahospitals.com/wp-content/uploads/2023/08/Dr.-Dharmesh-Kapoor.png"
+        },
+        {
+          "id": 45,
+          "name": "Dr V Pratibh Prasad",
+          "speciality": "Consultant Clinical , Interventional Pulmonologist",
+          "hospital_name": "Yashoda Hospitals",
+          "location": "Hitec City",
+          "phone_number": "8929967127",
+          "disease_name": "Tuberculosis",
+          "img": "https://www.yashodahospitals.com/wp-content/uploads/2023/08/Dr-V-Pratibh-Prasad.png"
+        },
+        {
+          "id": 46,
+          "name": "Dr.Krishna Subramanyam Pannala",
+          "speciality": "Orthopedist",
+          "hospital_name": "Yashoda Hospitals",
+          "location": " Nalgonda X Roads, Malakpet, Hyderabad",
+          "phone_number": "08197310466",
+          "disease_name": "Arthritis",
+          "img": "https://content.jdmagicbox.com/v2/comp/hyderabad/c7/040pxx40.xx40.091113141433.e8c7/catalogue/dr-krishna-subramanyam-pannala-malakpet-hyderabad-knee-replacement-surgeon-doctors-AfbiMMtAKa.jpg"
+        },
+        {
+          "id": 47,
+          "name": "Dr Santosh M Narayankar",
+          "speciality": "Gastroenterologists Medical",
+          "hospital_name": "Medicover Hospitals",
+          "location": "HUDA Techno Enclave, HITEC City, Hyderabad",
+          "phone_number": "040-68334455",
+          "disease_name": "Hepatitis C",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-santosh-m-narayankar.webp"
+        },
+        {
+          "id": 48,
+          "name": "Dr Srikanth Reddy",
+          "speciality": "Consultant Neuro & Spine surgeon",
+          "hospital_name": " Medicover Hospitals",
+          "location": "HUDA Techno Enclave, HITEC City, Hyderabad",
+          "phone_number": "917075493806",
+          "disease_name": "Cervical spondylosis",
+          "img": "https://www.medicoverhospitals.in/doctors/images/dr-srikanth-reddy.webp"
+        },
+        {
+          "id": 49,
+          "name": "Dr. Mohammed Wasif Azam",
+          "speciality": "Consultant Cardiologist",
+          "hospital_name": "Germanten Hospital",
+          "location": "Attapur, Hyderabad",
+          "phone_number": "+91 9000909073",
+          "disease_name": "Heart attack",
+          "img": "https://d3vgt007wgdf6q.cloudfront.net/wp-content/uploads/Dr-Wasif.png"
+        },
+        {
+          "id": 50,
+          "name": "Dr. Sudeepta Rao D",
+          "speciality": "Consultant of General Medicine",
+          "hospital_name": "Yashoda Hospitals",
+          "location": "Secunderabad",
+          "phone_number": "8929967127",
+          "disease_name": "Typhoid",
+          "img": "https://www.yashodahospitals.com/wp-content/uploads/2025/01/Dr.-Sudeepta-Rao-D.jpg"
+        }
+            
+      
+]
